@@ -7,8 +7,11 @@
     float: center;
     color: #f2f2f2;
     text-align: center;
-    padding 14px 16px;
-    text-decortation: none;
+    padding: 14px 16px;
+    text-decoration: none;
     font-size: 30px
 
+}
+body{
+    background-image: url(https://github.com/user-attachments/assets/3ee7f6bf-6883-4457-b28d-7d1b70cfe72e) ;
 }
